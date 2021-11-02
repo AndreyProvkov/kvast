@@ -1,2 +1,4 @@
 # kvast
-Learn project
+## Using technology
+- HTML
+- CSS
